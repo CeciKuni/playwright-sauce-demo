@@ -1,5 +1,5 @@
 {
-  "name": "api-ofertas-empresas-frontend-qa",
+  "name": "playwright-sauce-demo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
