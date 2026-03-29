@@ -1,0 +1,25 @@
+{
+  "name": "api-ofertas-empresas-frontend-qa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:dev": "cross-env ENV=dev playwright test",
+    "test:tst": "cross-env ENV=testing playwright test",
+    "test:prod": "cross-env ENV=prod playwright test",
+    "codegen:tst": "cross-env ENV=testing playwright codegen",
+    "codegen:dev": "cross-env ENV=dev playwright codegen"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.1",
+    "cross-env": "^10.1.0"
+  }
+}
