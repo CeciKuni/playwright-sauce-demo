@@ -2,6 +2,8 @@
 
 [![Playwright Tests](https://github.com/CeciKuni/playwright-sauce-demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/CeciKuni/playwright-sauce-demo/actions/workflows/playwright.yml)
 
+📊 **[Ver último reporte de tests](https://cecikuni.github.io/playwright-sauce-demo/)**
+
 Proyecto de automatización de pruebas end-to-end utilizando Playwright, enfocado en validar flujos completos de usuario y lógica de negocio sobre la aplicación SauceDemo.
 
 ---
