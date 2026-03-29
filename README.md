@@ -30,20 +30,24 @@ Simular un flujo real de usuario en un e-commerce, validando:
 ## 🧩 Casos automatizados
 
 ### 🔐 Login
+
 - Login exitoso
 - Login con credenciales inválidas
 - Login con usuario bloqueado
 
 ### 🛒 Inventory
+
 - Ordenamiento de productos por precio
 - Selección dinámica de productos según condición (precio < 10 USD)
 
 ### 🧺 Carrito
+
 - Validación de productos agregados
 - Eliminación de productos
 - Verificación de precios
 
 ### 💳 Checkout
+
 - Flujo completo de compra
 - Validación de cálculo: `total = item total + tax`
 - Validación de campos obligatorios (ej: código postal)
@@ -67,3 +71,4 @@ Simular un flujo real de usuario en un e-commerce, validando:
 ```bash
 git clone https://github.com/tu-usuario/tu-repo.git
 cd tu-repo
+```
