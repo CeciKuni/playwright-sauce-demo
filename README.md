@@ -63,12 +63,3 @@ Simular un flujo real de usuario en un e-commerce, validando:
 - Tests independientes y mantenibles
 
 ---
-
-## ▶️ Cómo ejecutar el proyecto
-
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
-```
